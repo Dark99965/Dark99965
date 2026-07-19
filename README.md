@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 hi i build cool full stack apps/games.
+also basicly all of my repos are my learning projects and they are dog sh*t
